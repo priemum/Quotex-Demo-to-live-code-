@@ -9,7 +9,7 @@ let iblafp = 1000;
 // Change live accout to demo by text and active
 document.getElementsByClassName("usermenu__info-name")[0].innerHTML =
   "LIVE ACCOUNT";
-
+         
 let elm1 = document.getElementsByClassName("sidebar__button")[1];
 elm1.setAttribute("id", "real");
 let elm2 = document.getElementsByClassName("sidebar__button")[2];
